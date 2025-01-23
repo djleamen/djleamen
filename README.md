@@ -9,8 +9,8 @@ I'm a passionate computer science student @ Ontario Tech University who loves cr
 - 🤝 Open to collaborating on: Open-source projects and innovative tech solutions
 - 📫 How to reach me: [Email](mailto:dj.leamen@ontariotechu.com) | [LinkedIn](https://www.linkedin.com/in/djleamen)
 - ⚡ Fun fact: I enjoy listening to music and drumming in my free time 🥁
+  
 ## Skills
-
 - **Languages:** Python, C++, C#, Java, Shell, JavaScript, HTML, CSS, SQL
 - **Frameworks:** NumPy, React.js, Express.js, Matplotlib, Vue.js, Django
 - **Tools:** Git, Docker, Terraform, Kubernetes, M365, Power BI, MATLAB
