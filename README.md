@@ -26,11 +26,6 @@ I'm a passionate computer science student @ Ontario Tech University who loves cr
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djleamen&layout=compact&theme=radical)
 
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djleamen)
