@@ -18,10 +18,6 @@ I'm a passionate computer science student @ Ontario Tech University who loves cr
 - **Cloud:** AWS, Azure, Google Cloud Platform
 - **Operating Systems**: Linux, Windows, macOS
 
-## GitHub Stats
-
-![DJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=djleamen&show_icons=true&theme=radical)
-
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djleamen&layout=compact&theme=radical)
