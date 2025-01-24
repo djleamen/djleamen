@@ -20,7 +20,7 @@ I'm a passionate computer science student @ Ontario Tech University who loves cr
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djleamen&layout=compact&theme=radical)
+![Top Languages](![djleamen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djleamen&theme=tokyonight&show_icons=true&hide_border=true&layout=compact))
 
 ## Connect with Me
 
