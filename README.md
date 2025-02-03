@@ -11,12 +11,13 @@ I'm a passionate computer science student @ Ontario Tech University who loves cr
 - ⚡ Fun fact: I enjoy listening to music and drumming in my free time 🥁
   
 ## Skills
-- **Languages:** Python, C++, C#, Java, Shell, JavaScript, HTML, CSS, SQL
-- **Frameworks:** NumPy, React.js, Express.js, Matplotlib, Vue.js, Django
-- **Tools:** Git, Docker, Terraform, Kubernetes, M365, Power BI, MATLAB
-- **Databases:** MySQL, Db2, SQL Server, NoSQL
-- **Cloud:** AWS, Azure, Google Cloud Platform
-- **Operating Systems**: Linux, Windows, macOS
+- **Languages**: Python, C++, C#, Java, PowerShell, JavaScript, HTML, CSS, SQL
+- **Environments**: VSCode, Eclipse, NetBeans, IntelliJ IDEA, Jupyter Notebook
+- **Frameworks**: React.js, Express.js, Vue.js, Django, Swing
+- **Libraries**: NumPy, Matplotlib, Pandas, scikit-learn, PyTorch, spaCy
+- **Technical tools**: Git, MATLAB, Microsoft 365, PowerBI, Linux, Generative AI (LLMs)
+- **Cloud tools**: Microsoft Azure, AWS, Google Cloud Platform (GCP)
+- **DBMS**: IBM Db2, MySQL, NoSQL, Microsoft SQL Server
 
 ## Top Languages
 
