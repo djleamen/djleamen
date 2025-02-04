@@ -23,7 +23,7 @@ Experienced in software development, data analysis, and system optimization and 
 
 ## Top Languages
 
-![Top Languages]((https://github-readme-stats.vercel.app/api/top-langs/?username=djleamen&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djleamen&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## Connect with Me
 
