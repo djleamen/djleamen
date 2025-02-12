@@ -6,7 +6,7 @@ I'm a passionate computer science student @ Ontario Tech University who loves cr
 
 Experienced in software development, data analysis, and system optimization and committed to collaboration and driving team success. A proven history of research, operational improvements, peer mentoring, and delivering impactful projects highlights my adaptability and value in fast-paced, dynamic environments.
 
-- 🌱 Currently learning: Cybersecurity, NLP, cloud migration
+- 🌱 Currently learning: Cybersecurity, NLP, cloud computing
 - 💼 Working on: Exciting projects that solve real-world problems
 - 🤝 Open to collaborating on: Open-source projects and innovative tech solutions
 - 📫 How to reach me: [Email](mailto:dj.leamen@ontariotechu.com) | [LinkedIn](https://www.linkedin.com/in/djleamen)
