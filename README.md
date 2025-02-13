@@ -13,7 +13,7 @@ Experienced in software development, data analysis, and system optimization and 
 - ⚡ Fun fact: I enjoy listening to music and drumming in my free time 🥁
   
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,js,powershell,bash,github,matlab,vscode,react,nodejs,npm,vue,express,raspberrypi,azure,aws,linux,mysql,wordpress,notion,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,js,powershell,bash,github,matlab,vscode,react,nodejs,npm,vue,express,raspberrypi,azure,aws,linux,mysql,notion,&perline=10)](https://skillicons.dev)
 
 ## Top Languages
 
