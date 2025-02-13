@@ -9,7 +9,6 @@ Experienced in software development, data analysis, and system optimization and 
 - 🌱 Currently learning: Cybersecurity, NLP, cloud computing
 - 💼 Working on: Exciting projects that solve real-world problems
 - 🤝 Open to collaborating on: Open-source projects and innovative tech solutions
-- 📫 How to reach me: [Email](mailto:dj.leamen@ontariotechu.com) | [LinkedIn](https://www.linkedin.com/in/djleamen)
 - ⚡ Fun fact: I enjoy listening to music and drumming in my free time 🥁
 
 ## Connect with Me
