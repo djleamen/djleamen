@@ -13,13 +13,7 @@ Experienced in software development, data analysis, and system optimization and 
 - ⚡ Fun fact: I enjoy listening to music and drumming in my free time 🥁
   
 ## Skills
-- **Languages**: Python, C++, C#, Java, PowerShell, JavaScript, HTML, CSS, SQL
-- **Environments**: VSCode, Eclipse, NetBeans, IntelliJ IDEA, Jupyter Notebook
-- **Frameworks**: React.js, Express.js, Vue.js, Django, Swing
-- **Libraries**: NumPy, Matplotlib, Pandas, scikit-learn, PyTorch, spaCy
-- **Technical tools**: Git, MATLAB, Microsoft 365, PowerBI, Linux, Generative AI (LLMs)
-- **Cloud tools**: Microsoft Azure, AWS, Google Cloud Platform (GCP)
-- **DBMS**: IBM Db2, MySQL, NoSQL, Microsoft SQL Server
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,js,powershell,bash,github,matlab,vscode,react,nodejs,npm,vue,express,raspberrypi,azure,aws,linux,mysql,wordpress,notion,&perline=8)](https://skillicons.dev)
 
 ## Top Languages
 
