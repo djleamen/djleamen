@@ -15,9 +15,11 @@ Experienced in software development, data analysis, and system optimization and 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,js,powershell,html,github,matlab,vscode,react,nodejs,npm,vue,express,raspberrypi,azure,aws,linux,mysql,notion,&perline=10)](https://skillicons.dev)
 
-## Top Languages
+<details><summary>Top Languages</summary>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djleamen&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+</details>
 
 ## Connect with Me
 
