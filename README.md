@@ -1,6 +1,6 @@
 # Hi there, I'm DJ 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71CEF7&multiline=true&width=435&lines=Full+Stack+Developer;AI+%26+Cloud+Solutions+Researcher;Computer+Science+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71CEF7&width=435&lines=Full+Stack+Developer;AI+%26+Cloud+Solutions+Researcher;Computer+Science+Student)](https://git.io/typing-svg)
 
 ## About Me
 
