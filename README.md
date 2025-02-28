@@ -27,4 +27,4 @@ Feel free to check out my repositories and contribute if you find something inte
 </details>
   
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,chsarp,java,js,powershell,vscode,react,nodejs,vue,azure,aws,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,java,js,powershell,vscode,react,nodejs,vue,azure,aws,&perline=12)](https://skillicons.dev)
