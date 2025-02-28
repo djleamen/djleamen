@@ -20,7 +20,7 @@ Experienced in software development, data analysis, and system optimization and 
 
 Feel free to check out my repositories and contribute if you find something interesting!
 
-<details><summary>Top Languages</summary>
+## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djleamen&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
