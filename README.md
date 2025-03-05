@@ -8,8 +8,7 @@ I'm a passionate computer science student @ Ontario Tech University who loves cr
 Experienced in software development, data analysis, and system optimization and committed to collaboration and driving team success. A proven history of research, operational improvements, peer mentoring, and delivering impactful projects highlights my adaptability and value in fast-paced, dynamic environments.
 
 - 🌱 Currently learning: Cybersecurity, NLP, cloud computing
-- 💼 Working on: Exciting projects that solve real-world problems
-- 🤝 Open to collaborating on: Open-source projects and innovative tech solutions
+- 💼 Working on: SUSTAIN, Scrozam!, personal portfolio, class projects
 - ⚡ Fun fact: I enjoy listening to music and drumming in my free time 🥁
 
 ## Connect with Me
@@ -20,10 +19,10 @@ Experienced in software development, data analysis, and system optimization and 
 
 Feel free to check out my repositories and contribute if you find something interesting!
 
-## Stats
+## Language Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djleamen&theme=transparent&show_icons=true&hide_border=true&langs_count=10&layout=compact)
 
 </details>
   
-## Skills
+## Skill Summary
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,cs,js,powershell,vscode,react,nodejs,vue,azure,aws,&perline=12)](https://skillicons.dev)
