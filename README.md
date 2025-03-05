@@ -21,7 +21,6 @@ Experienced in software development, data analysis, and system optimization and 
 Feel free to check out my repositories and contribute if you find something interesting!
 
 ## Stats
-![DJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=djleamen&show_icons=true&theme=transparent&rank_icon=github&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djleamen&theme=transparent&show_icons=true&hide_border=true&langs_count=10&layout=compact)
 
 </details>
