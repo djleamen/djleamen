@@ -7,8 +7,8 @@ I'm a passionate computer science student @ Ontario Tech University who loves cr
 
 Experienced in software development, data analysis, and system optimization and committed to collaboration and driving team success. A proven history of research, operational improvements, peer mentoring, and delivering impactful projects highlights my adaptability and value in fast-paced, dynamic environments.
 
-- 🌱 Currently learning: Cybersecurity, NLP, cloud computing
-- 💼 Working on: SUSTAIN, Scrozam!, personal portfolio, class projects
+- 🌱 Currently learning: ML/AI, Cybersecurity, cloud computing
+- 💼 Working on: Client projects, SUSTAIN, Scrozam!, personal portfolio, class projects
 - ⚡ Fun fact: I enjoy listening to music and drumming in my free time 🥁
 
 ## Connect with Me
