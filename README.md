@@ -12,7 +12,7 @@ Experienced in software development, data analysis, and system optimization and 
 - ⚡ Fun fact: I enjoy listening to music and drumming in my free time 🥁
 
 ## Connect with Me
-
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/djleamen)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dejjos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djleamen)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dj.leamen@ontariotechu.com)
