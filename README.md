@@ -17,9 +17,8 @@ Experienced in software development, data analysis, and system optimization and 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dejjos)
 [![Bluesky](https://img.shields.io/badge/Bluesky-1285FE?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/dejjo.bsky.social)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dj.leamen@ontariotechu.com)
-[![Sessionize](https://img.shields.io/badge/Sessionize-1AB394?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/djleamen/)
 [![DEV](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/djleamen)
-
+[![Sessionize](https://img.shields.io/badge/Sessionize-1AB394?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/djleamen/)
 
 Feel free to check out my repositories and contribute if you find something interesting!
 
