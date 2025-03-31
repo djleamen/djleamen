@@ -22,8 +22,11 @@ Experienced in software development, data analysis, and system optimization and 
 
 Feel free to check out my repositories and contribute if you find something interesting!
 
-## Language Stats
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=djleamen&theme=dark)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djleamen&theme=transparent&show_icons=true&hide_border=true&langs_count=10&layout=compact)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=djleamen&theme=radical&title=-Reviews,-Experience,-Followers)
 
 </details>
   
