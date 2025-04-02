@@ -23,9 +23,9 @@ Experienced in software development, data analysis, and system optimization and 
 Feel free to check out my repositories and contribute if you find something interesting!
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=djleamen&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=350&card_height=150)](https://git.io/streak-stats)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djleamen&theme=transparent&show_icons=true&hide_border=true&langs_count=10&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=djleamen&theme=dracula&hide_border=true&border_radius=5&short_numbers=true&card_width=340&card_height=170)](https://git.io/streak-stats)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djleamen&theme=transparent&show_icons=true&hide_border=true&langs_count=10&layout=compact)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=djleamen&theme=radical&title=-Reviews,-Experience,-Followers)
+![Trophies](https://github-profile-trophy.vercel.app/?username=djleamen&theme=radical&title=-Reviews,-Experience,-Followers)
 
 </details>
   
