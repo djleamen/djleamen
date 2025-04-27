@@ -8,7 +8,7 @@ I'm a ML/AI Intern @ **Kyndryl** and a passionate computer science student @ **O
 Experienced in software development, data analysis, and system optimization and committed to collaboration and driving team success. A proven history of research, operational improvements, peer mentoring, and delivering impactful projects highlights my adaptability and value in fast-paced, dynamic environments.
 
 - 🌱 Currently learning: ML/AI, Cybersecurity, cloud computing
-- 💼 Working on: Client projects, SUSTAIN, Scrozam!, personal portfolio, class projects
+- 💼 Working on: Client projects, SUSTAIN, Scrozam!, personal portfolio
 - ⚡ Fun fact: I enjoy listening to music and drumming in my free time 🥁
 
 ## Connect with Me
