@@ -24,8 +24,6 @@ Feel free to check out my repositories and contribute if you find something inte
 
 ## Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=djleamen&label=Profile%20views&color=0e75b6&style=flat" alt="djlamen" /> </p>
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djleamen&theme=transparent&show_icons=true&hide_border=true&langs_count=10&layout=compact)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=djleamen&theme=radical&title=-Reviews,-Experience,-Followers)
