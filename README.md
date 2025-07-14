@@ -7,7 +7,7 @@ I'm a ML/AI Intern @ **Kyndryl** and a passionate computer science student @ **O
 
 I do software development, data analysis, and system optimization and am committed to collaboration and team success. I have a proven track record of operational improvements, peer mentoring, and delivering impactful projects.
 
-- 🌱 Currently learning: OCR, Azure, MUI
+- 🌱 Currently learning: OCR, cloud platforms, material design principles
 - 💼 Working on: react-pptx microservice, SUSTAIN, Scrozam!
 - ⚡ Fun fact: I enjoy watching hockey and drumming in my free time 🥁
 
