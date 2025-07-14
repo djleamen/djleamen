@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71CEF7&random=true&width=435&height=30&lines=Full+Stack+Developer;ML/AI+Researcher;Computer+Science+Student)](https://git.io/typing-svg)
 ## About Me
 
-I'm a ML/AI Intern @ **Kyndryl** and a passionate computer science student @ **Ontario Tech University** who loves creating innovative solutions, working with data, and exploring new technologies. 
+I'm a ML/AI Intern @ **Kyndryl**, Automation Consultant on contract with **Tidal SW**, and a passionate computer science student @ **Ontario Tech University**. I love working with data and exploring new technologies. 
 
 I do software development, data analysis, and system optimization and am committed to collaboration and team success. I have a proven track record of operational improvements, peer mentoring, and delivering impactful projects.
 
