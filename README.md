@@ -41,7 +41,7 @@ I'm a **Machine Learning/AI Intern** at **Kyndryl**, a contract **Automation Con
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,js,react,nodejs,vue,npm,azure,aws&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,js,ts,react,vue,django,npm,azure,aws&perline=11)](https://skillicons.dev)
 
 ---
 
