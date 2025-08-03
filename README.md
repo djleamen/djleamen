@@ -8,11 +8,11 @@
 
 I'm a **Machine Learning/AI Intern** at **Kyndryl**, a contract **Automation Consultant** with **Tidal SW**, and a passionate **Computer Science student** at **Ontario Tech University**.
 
-- 🎓 Officer of Sponsorships – CS Club @ OTU  
-- 🎯 Director of Marketing – ACM-W OTU Branch  
+- 💼 Officer of Sponsorships – CS Club @ OTU  
+- 📈 Director of Marketing – ACM-W OTU Branch  
 - 💡 Focused on software development, data analysis, and system optimization  
 - 🤝 Committed to collaboration, mentorship, and delivering impactful results  
-- 📊 Currently building Tidal's **Accelerator Fast Track PowerPoint microservice**
+- ☁️ Currently studying for **AWS** and **Azure** certifications 
 
 > ⚡ *Fun fact:* I love hockey and drumming in my free time 🥁
 
