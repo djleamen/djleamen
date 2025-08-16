@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a **Machine Learning/AI Intern** at **Kyndryl**, a contract **Automation Consultant** with **Tidal SW**, and a passionate **Computer Science student** at **Ontario Tech University**.
+I'm a **Machine Learning/AI Intern** at **Kyndryl** and a passionate **Computer Science student** at **Ontario Tech University**.
 
 - 💼 Officer of Sponsorships – CS Club @ OTU  
 - 📈 Director of Marketing – ACM-W OTU Branch  
