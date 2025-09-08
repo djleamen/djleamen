@@ -50,3 +50,16 @@ I'm a **Machine Learning/AI Intern** at **Kyndryl** and a passionate **Computer 
 - Optical Character Recognition (OCR)
 - Advanced cloud platform tools
 - Material design principles
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/djleamen/djleamen/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/djleamen/djleamen/github-breakout/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/djleamen/djleamen/github-breakout/images/breakout-light.svg" />
+</picture>
+
