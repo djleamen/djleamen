@@ -23,7 +23,7 @@ I'm a **Machine Learning/AI Intern** at **Kyndryl** and a passionate **Computer 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dj.leamen@ontariotechu.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/djleamen)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dejjos)
-[![Bluesky](https://img.shields.io/badge/Bluesky-1285FE?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/dejjo.bsky.social)
+[![Bluesky](https://img.shields.io/badge/Bluesky-1285FE?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/djleamen.substack.com)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/djleamen)
 [![Substack](https://img.shields.io/badge/Substack-FF5900?style=for-the-badge&logo=substack&logoColor=white)](https://djleamen.substack.com)
 
