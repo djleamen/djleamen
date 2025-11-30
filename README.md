@@ -9,7 +9,6 @@
 I'm a **Machine Learning/AI Intern** at **Kyndryl** and a passionate **Computer Science student** at **Ontario Tech University**.
 
 - 🔭 VP External Affairs - OTU Science Council
-- 💼 Officer of Sponsorships – CS Club @ OTU  
 - 📈 Director of Marketing – ACM-W OTU Branch  
 - 💡 Focused on software development, data analysis, and system optimization  
 - 🤝 Committed to collaboration, mentorship, and delivering impactful results  
