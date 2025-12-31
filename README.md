@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a **Machine Learning/AI Intern** at **Kyndryl** and a passionate **Computer Science Undergraduate Research Assistant** at **Ontario Tech University**.
+I'm a **Machine Learning/AI Intern** at **Kyndryl** and a passionate **Computer Science Undergraduate RA** at **Ontario Tech University**.
 
 - 🔭 VP External Affairs - OTU Science Council
 - 📈 Director of Marketing – ACM-W OTU Branch  
