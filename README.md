@@ -48,9 +48,10 @@ I'm a **Machine Learning/AI Intern** at **Kyndryl** and a passionate **Computer 
 
 ## Currently Learning
 
-- Optical Character Recognition (OCR)
-- Advanced cloud platform tools
-- Material design principles
+- Transformer models
+- Advanced authentication 
+- Hybrid cloud tools
+  
 
 <picture>
   <source
