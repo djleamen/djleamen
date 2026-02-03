@@ -6,13 +6,14 @@
 
 ## About Me
 
-I'm a **Machine Learning/AI Intern** at **Kyndryl** and a passionate **Computer Science Undergraduate RA** at **Ontario Tech University**.
+I'm a **Machine Learning/AI Intern** at **Kyndryl** and a passionate **Computer Science student** at **Ontario Tech University**.
 
-- 🔭 VP External Affairs - OTU Science Council
-- 📈 Director of Marketing – ACM-W OTU Branch  
-- 💡 Focused on software development, data analysis, and system optimization  
-- 🤝 Committed to collaboration, mentorship, and delivering impactful results  
-- ☁️ AZ-900, AI-900 certified, currently studying for **AWS** and more **Azure** certifications 
+- 🔍 Undergraduate Research Assistant & Principal Investigator
+- 🎓 Student Ambassador - Ontario Tech University
+- 📈 Director of Marketing – ACM-W OTU Branch
+- 💡 Focused on software development, data analysis, and system optimization
+- 🤝 Committed to collaboration, mentorship, and delivering impactful results
+- ☁️ AZ-900, AI-900 certified, currently studying for **AWS** and more **Azure** certifications
 
 > ⚡ *Fun fact:* I love hockey and drumming in my free time 🥁
 
