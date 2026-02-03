@@ -42,7 +42,7 @@ I'm a **Machine Learning/AI Intern** at **Kyndryl** and a passionate **Computer 
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,js,ts,react,vue,django,npm,azure,aws&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,js,ts,tensorflow,sklearn,react,vue,django,npm,azure,aws,gcp&perline=15)](https://skillicons.dev)
 
 ---
 
