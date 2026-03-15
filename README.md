@@ -48,6 +48,7 @@ I'm a **Machine Learning/AI Intern** at **Kyndryl** and a passionate **Computer 
 
 ## Currently Learning
 
+- R
 - Transformer models
 - Advanced authentication 
 - Hybrid cloud tools
