@@ -36,7 +36,7 @@ I'm a **Machine Learning/AI Intern** at **Kyndryl** and a passionate **Computer 
 
 ![Top Languages](https://github-readme-stats-rho-puce-45.vercel.app/api/top-langs/?username=djleamen&theme=transparent&show_icons=true&hide_border=true&langs_count=10&layout=compact)
 
-![Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=djleamen&theme=radical&title=-Reviews,-Experience,-Followers)
+![Trophies](https://github-profile-trophy.vercel.app/?username=djleamen&theme=radical&title=-Reviews,-Experience,-Followers)
 
 ---
 
