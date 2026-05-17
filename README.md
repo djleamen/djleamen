@@ -13,7 +13,7 @@ I'm a **Machine Learning/AI Intern** at **Kyndryl** and a passionate **Computer 
 - 📈 Director of Marketing – ACM-W OTU Branch
 - 💡 Focused on software development, data analysis, and system optimization
 - 🤝 Committed to collaboration, mentorship, and delivering impactful results
-- ☁️ AZ-900, AI-900 certified, currently studying for **AWS** and more **Azure** certifications
+- ☁️ AZ-900, AI-900, AIF-C01 certified, currently studying for more certifications
 
 > ⚡ *Fun fact:* I love hockey and drumming in my free time 🥁
 
