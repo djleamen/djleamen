@@ -6,16 +6,17 @@
 
 ## About Me
 
-I'm a **Machine Learning/AI Intern** at **Kyndryl** and a passionate **Computer Science student** at **Ontario Tech University**.
+I'm a **Machine Learning/AI Intern** at **Kyndryl** and **Computer Science student** at **Ontario Tech University**.
 
 - 🔍 Undergraduate Research Assistant & Principal Investigator
 - 🎓 Student Ambassador - Ontario Tech University
-- 📈 Director of Marketing – ACM-W OTU Branch
 - 💡 Focused on software development, data analysis, and system optimization
 - 🤝 Committed to collaboration, mentorship, and delivering impactful results
 - ☁️ AZ-900, AI-900, AIF-C01 certified, currently studying for more certifications
 
 > ⚡ *Fun fact:* I love hockey and drumming in my free time 🥁
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,js,ts,tensorflow,sklearn,react,vue,django,npm,azure,aws,gcp&perline=15)](https://skillicons.dev)
 
 ---
 
@@ -32,36 +33,24 @@ I'm a **Machine Learning/AI Intern** at **Kyndryl** and a passionate **Computer 
 
 ---
 
+<details>
+  <summary><strong>Click for more!</strong></summary>
+
+## Certification Badges
+
+<img width="108" height="108" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/6b703b28-ad48-4b49-b2be-341f2a971db3" />
+<img width="108" height="108" alt="microsoft-certified-azure-fundamentals" src="https://github.com/user-attachments/assets/cc0349b3-fd5d-448a-b6e6-b4cbe156546d" />
+<img width="108" height="108" alt="microsoft-certified-azure-ai-fundamental" src="https://github.com/user-attachments/assets/eee0e421-6131-44c3-9e6e-a7ba137bb7db" />
+<img width="108" height="108" alt="blob" src="https://github.com/user-attachments/assets/252c48f8-23a9-4f11-a7ea-42ebea22cf24" />
+<img width="108" height="108" alt="ibm-full-stack-software-developer" src="https://github.com/user-attachments/assets/6cdc87da-2026-464b-a46f-722a4cf232aa" />
+
+
+---
+
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats-rho-puce-45.vercel.app/api/top-langs/?username=djleamen&theme=transparent&show_icons=true&hide_border=true&langs_count=18&layout=compact)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=djleamen&theme=radical&title=-Reviews,-Experience,-Followers)
 
----
-
-## Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,js,ts,tensorflow,sklearn,react,vue,django,npm,azure,aws,gcp&perline=15)](https://skillicons.dev)
-
----
-
-## Currently Learning
-
-- R
-- Transformer models
-- Advanced authentication 
-- Hybrid cloud tools
-  
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/djleamen/djleamen/github-breakout/images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/djleamen/djleamen/github-breakout/images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/djleamen/djleamen/github-breakout/images/breakout-light.svg" />
-</picture>
+</details>
