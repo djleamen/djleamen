@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm DJ!
+# DJ Leamen
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71CEF7&random=true&width=435&height=30&lines=Full+Stack+Developer;ML/AI+Researcher;Computer+Science+Student)](https://git.io/typing-svg)
 
