@@ -43,6 +43,7 @@ I'm a **Machine Learning/AI Intern** at **Kyndryl** and **Computer Science stude
 <img width="108" height="108" alt="microsoft-certified-azure-ai-fundamental" src="https://github.com/user-attachments/assets/eee0e421-6131-44c3-9e6e-a7ba137bb7db" />
 <img width="108" height="108" alt="blob" src="https://github.com/user-attachments/assets/252c48f8-23a9-4f11-a7ea-42ebea22cf24" />
 <img width="108" height="108" alt="ibm-full-stack-software-developer" src="https://github.com/user-attachments/assets/6cdc87da-2026-464b-a46f-722a4cf232aa" />
+<img width="108" height="108" alt="aws-mlops-demonstrated" src="https://github.com/user-attachments/assets/a47c6221-76a6-4f0d-bf82-5cab8cfd03c7" />
 
 
 ---
