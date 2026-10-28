@@ -1,27 +1,49 @@
-# DJ Leamen
+# Hi, I'm DJ !
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71CEF7&random=true&width=435&height=30&lines=Full+Stack+Developer;ML/AI+Researcher;Computer+Science+Student)](https://git.io/typing-svg)
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=71CEF7&random=true&width=435&height=30&lines=Agentic+Forward+Deployed+Engineering;Computer+Science+Student;Accessibility+%26+AI+Researcher)](https://git.io/typing-svg)
 
 ## About Me
 
-I'm a **Machine Learning/AI Intern** at **Kyndryl** and **Computer Science student** at **Ontario Tech University**.
+I'm an **AI/ML Developer** at **Kyndryl** and a **Computer Science student** at **Ontario Tech University** building enterprise agentic AI.
 
-- 🔍 Undergraduate Research Assistant & Principal Investigator
-- 🎓 Student Ambassador - Ontario Tech University
-- 💡 Focused on software development, data analysis, and system optimization
-- 🤝 Committed to collaboration, mentorship, and delivering impactful results
-- ☁️ AZ-900, AI-900, AIF-C01 certified, currently studying for more certifications
+- 🤖 Lead developer of a multi-agent modernization & opportunity-discovery platform at Kyndryl
+- 🛠️ Forward-deployed engineer: solution architecture, TCO modelling, technical discovery, live demos
+- 🔍 Undergraduate Research Assistant studying accessibility, disability, and AI in STEM education
+- 👩‍💻 Chair of the Ontario Tech University ACM-W Student Chapter
+- 🎓 Student Ambassador, Ontario Tech University
+- ☁️ AZ-900, AI-900, AIF-C01 certified
 
 > ⚡ *Fun fact:* I love hockey and drumming in my free time 🥁
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,js,ts,tensorflow,sklearn,react,vue,django,npm,azure,aws,gcp&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,ts,js,pytorch,sklearn,fastapi,react,nodejs,azure,aws,gcp,docker,redis&perline=16)](https://skillicons.dev)
+
+---
+
+## Featured Projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| 🌱 [**SUSTAIN**](https://github.com/djleamen/SUSTAIN) | Token-optimization pipeline that cuts LLM token usage by ~40%. **Top 5 at HackHive** | Python |
+| 🍁 [**MapleClear**](https://github.com/djleamen/MapleClear) | Privacy-first browser extension that simplifies Canadian government pages with local GPT-OSS models, for ESL readers and accessibility | TypeScript, local LLMs |
+| 📚 [**doc-reader**](https://github.com/djleamen/doc-reader) | RAG Q&A over 800,000+ words of documents | FastAPI, Streamlit, LangChain, FAISS |
+| 🧪 [**Modelcules**](https://github.com/djleamen/modelcules) | Interactive 3D molecule viewer from chemical formulae | React, TypeScript, Three.js |
+| 🔎 [**Search Ad Learning**](https://github.com/djleamen/search-ad-learning) | Visualization demo of how search engines determine ad topics and audience segments. | Python
+
+---
+
+## Research & Recent Talks
+
+Leamen, D. J., Hsu, C., Madisha, K., Patel, H., Powell, N., & Ruttenberg-Rozen, R. (2026, October 16). The "AI con": Disability, accessibility, and suspicion in postsecondary AI use [Conference presentation]. 2026 IEEE International Symposium on Technology and Society, Thiruvananthapuram, Kerala, India.
+
+- **Ask a Gen Z AI Engineer: School, Work & the Future of Coding** · GitHub Universe 2026, San Francisco
+- **Kyndryl Agentic Framework: Accelerating Data Estate Modernization** · Day of Data / SQL Saturday Toronto 2026
+- **Building Your Brand from the Inside Out: Making Your Strengths Visible** · CAN-CWiC 2026, University of Waterloo
 
 ---
 
 ## Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-71CEF7?style=for-the-badge&logo=googlechrome&logoColor=black)](https://djleamen.ca)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dj.leamen@ontariotechu.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/djleamen)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dejjos)
