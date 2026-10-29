@@ -19,25 +19,36 @@ I'm an **AI/ML Developer** at **Kyndryl** and a **Computer Science student** at 
 
 ---
 
+
 ## Featured Projects
 
 | Project | What it does | Built with |
 | --- | --- | --- |
 | 🌱 [**SUSTAIN**](https://github.com/djleamen/SUSTAIN) | Token-optimization pipeline that cuts LLM token usage by ~40%. **Top 5 at HackHive** | Python |
-| 🍁 [**MapleClear**](https://github.com/djleamen/MapleClear) | Privacy-first browser extension that simplifies Canadian government pages with local GPT-OSS models, for ESL readers and accessibility | TypeScript, local LLMs |
-| 📚 [**doc-reader**](https://github.com/djleamen/doc-reader) | RAG Q&A over 800,000+ words of documents | FastAPI, Streamlit, LangChain, FAISS |
-| 🧪 [**Modelcules**](https://github.com/djleamen/modelcules) | Interactive 3D molecule viewer from chemical formulae | React, TypeScript, Three.js |
-| 🔎 [**Search Ad Learning**](https://github.com/djleamen/search-ad-learning) | Visualization demo of how search engines determine ad topics and audience segments. | Python
+| 🍁 [**MapleClear**](https://github.com/djleamen/MapleClear) | Browser extension that rewrites Canadian government pages into plain language and translates them, all with local gpt-oss models. **OpenAI Open Model Hackathon** | TypeScript, local LLMs |
+| 🤖 [**mai-buddy**](https://github.com/djleamen/mai-buddy) | Menu-bar desktop AI agent with a global hotkey and built-in tools for filesystem, shell, and GitHub | Python, Claude API, pywebview |
+| 🎯 [**search-ad-learning**](https://github.com/djleamen/search-ad-learning) | Shows how search engines turn your queries into ad topics and audience segments, backed by an online-learning classifier | FastAPI, SGD classifier, PostgreSQL |
 
----
+<details>
+  <summary><strong>Also worth a look:</strong></summary>
 
-## Research & Recent Talks
+- [doc-reader](https://github.com/djleamen/doc-reader) (RAG over 800k+ words)
+- [blockgame](https://github.com/djleamen/blockgame) (Minecraft-alpha-style voxel game in Java + OpenGL)
+- [ascii-video](https://djleamen.github.io/ascii-video/) (any video → live ASCII art in your browser)
+- [Modelcules](https://github.com/djleamen/modelcules) (3D molecule viewer)
+- [better-visualizer](https://github.com/djleamen/better-visualizer) (iTunes-style music visualizer)
 
-Leamen, D. J., Hsu, C., Madisha, K., Patel, H., Powell, N., & Ruttenberg-Rozen, R. (2026, October 16). The "AI con": Disability, accessibility, and suspicion in postsecondary AI use [Conference presentation]. 2026 IEEE International Symposium on Technology and Society, Thiruvananthapuram, Kerala, India.
-
-- **Ask a Gen Z AI Engineer: School, Work & the Future of Coding** · GitHub Universe 2026, San Francisco
-- **Kyndryl Agentic Framework: Accelerating Data Estate Modernization** · Day of Data / SQL Saturday Toronto 2026
-- **Building Your Brand from the Inside Out: Making Your Strengths Visible** · CAN-CWiC 2026, University of Waterloo
+**Built from scratch** via [CodeCrafters](https://app.codecrafters.io/users/djleamen):
+- [Claude Code](https://github.com/djleamen/claude-code-python) (Python)
+- [interpreter](https://github.com/djleamen/interpreter-python) (Python)
+- [BitTorrent client](https://github.com/djleamen/bittorrent-java) (Java)
+- [Git](https://github.com/djleamen/git-java) (Java)
+- [shell](https://github.com/djleamen/shell-cpp) (C++)
+- [SQLite](https://github.com/djleamen/sqlite-typescript) (TS)
+- [grep](https://github.com/djleamen/grep-typescript) (TS)
+- [Redis](https://github.com/djleamen/redis-python) (Python)
+- [HTTP server](https://github.com/djleamen/http-server-csharp) (C#)
+</details>
 
 ---
 
@@ -60,10 +71,11 @@ Leamen, D. J., Hsu, C., Madisha, K., Patel, H., Powell, N., & Ruttenberg-Rozen, 
 
 ## Certification Badges
 
+<img width="100" height="100" alt="forward-deployed-engineering" src="https://github.com/user-attachments/assets/e8aa824a-29f0-45de-9468-18aca82e6c81" />
 <img width="108" height="108" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/6b703b28-ad48-4b49-b2be-341f2a971db3" />
 <img width="108" height="108" alt="microsoft-certified-azure-fundamentals" src="https://github.com/user-attachments/assets/cc0349b3-fd5d-448a-b6e6-b4cbe156546d" />
 <img width="108" height="108" alt="microsoft-certified-azure-ai-fundamental" src="https://github.com/user-attachments/assets/eee0e421-6131-44c3-9e6e-a7ba137bb7db" />
-<img width="108" height="108" alt="blob" src="https://github.com/user-attachments/assets/252c48f8-23a9-4f11-a7ea-42ebea22cf24" />
+<img width="108" height="108" alt="microsoft-ai-engineering-cert" src="https://github.com/user-attachments/assets/252c48f8-23a9-4f11-a7ea-42ebea22cf24" />
 <img width="108" height="108" alt="ibm-full-stack-software-developer" src="https://github.com/user-attachments/assets/6cdc87da-2026-464b-a46f-722a4cf232aa" />
 <img width="108" height="108" alt="aws-mlops-demonstrated" src="https://github.com/user-attachments/assets/a47c6221-76a6-4f0d-bf82-5cab8cfd03c7" />
 
@@ -75,5 +87,14 @@ Leamen, D. J., Hsu, C., Madisha, K., Patel, H., Powell, N., & Ruttenberg-Rozen, 
 ![Top Languages](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=djleamen&theme=transparent&show_icons=true&hide_border=true&langs_count=18&layout=compact)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=djleamen&theme=radical&title=-Reviews,-Experience,-Followers)
+
+
+## Research & Recent Talks
+
+Leamen, D. J., Hsu, C., Madisha, K., Patel, H., Powell, N., & Ruttenberg-Rozen, R. (2026, October 16). The "AI con": Disability, accessibility, and suspicion in postsecondary AI use [Conference presentation]. 2026 IEEE International Symposium on Technology and Society, Thiruvananthapuram, Kerala, India.
+
+- **Ask a Gen Z AI Engineer: School, Work & the Future of Coding** · GitHub Universe 2026, San Francisco
+- **Kyndryl Agentic Framework: Accelerating Data Estate Modernization** · Day of Data / SQL Saturday Toronto 2026
+- **Building Your Brand from the Inside Out: Making Your Strengths Visible** · CAN-CWiC 2026, University of Waterloo
 
 </details>
