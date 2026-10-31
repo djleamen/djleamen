@@ -17,6 +17,7 @@ I'm an **AI/ML Developer** at **Kyndryl** and a **Computer Science student** at 
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,cs,ts,js,pytorch,sklearn,fastapi,react,nodejs,azure,aws,gcp,docker,redis&perline=16)](https://skillicons.dev)
 
+
 ---
 
 
@@ -96,5 +97,7 @@ Leamen, D. J., Hsu, C., Madisha, K., Patel, H., Powell, N., & Ruttenberg-Rozen, 
 - **Ask a Gen Z AI Engineer: School, Work & the Future of Coding** · GitHub Universe 2026, San Francisco
 - **Kyndryl Agentic Framework: Accelerating Data Estate Modernization** · Day of Data / SQL Saturday Toronto 2026
 - **Building Your Brand from the Inside Out: Making Your Strengths Visible** · CAN-CWiC 2026, University of Waterloo
+
+ <img src="koi/koi.gif" width="256" alt="My koi" />
 
 </details>
