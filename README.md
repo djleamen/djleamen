@@ -25,10 +25,11 @@ I'm an **AI/ML Developer** at **Kyndryl** and a **Computer Science student** at 
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| 🌱 [**SUSTAIN**](https://github.com/djleamen/SUSTAIN) | Token-optimization pipeline that cuts LLM token usage by ~40%. **Top 5 at HackHive** | Python |
-| 🍁 [**MapleClear**](https://github.com/djleamen/MapleClear) | Browser extension that rewrites Canadian government pages into plain language and translates them, all with local gpt-oss models. **OpenAI Open Model Hackathon** | TypeScript, local LLMs |
-| 🤖 [**mai-buddy**](https://github.com/djleamen/mai-buddy) | Menu-bar desktop AI agent with a global hotkey and built-in tools for filesystem, shell, and GitHub | Python, Claude API, pywebview |
-| 🎯 [**search-ad-learning**](https://github.com/djleamen/search-ad-learning) | Shows how search engines turn your queries into ad topics and audience segments, backed by an online-learning classifier | FastAPI, SGD classifier, PostgreSQL |
+| [**SUSTAIN**](https://github.com/djleamen/SUSTAIN) | Token-optimization pipeline that cuts LLM token usage by ~40%. **Top 5 at HackHive** | Python |
+| [**MapleClear**](https://github.com/djleamen/MapleClear) | Browser extension that rewrites Canadian government pages into plain language and translates them, all with local gpt-oss models. **OpenAI Open Model Hackathon** | TypeScript, local LLMs |
+| [**mai-buddy**](https://github.com/djleamen/mai-buddy) | Menu-bar desktop AI agent with a global hotkey and built-in tools for filesystem, shell, and GitHub | Python, Claude API, pywebview |
+| [**search-ad-learning**](https://github.com/djleamen/search-ad-learning) | Shows how search engines turn your queries into ad topics and audience segments, backed by an online-learning classifier | FastAPI, SGD classifier, PostgreSQL |
+| [**Scrozam!**](https://github.com/djleamen/Scrozam) | Detects songs using the ACRCloud API and scrobbles the identified tracks to a user's Last.fm account. | JS + Python, OAuth |
 
 <details>
   <summary><strong>Also worth a look:</strong></summary>
