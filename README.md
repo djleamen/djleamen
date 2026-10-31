@@ -87,7 +87,7 @@ I'm an **AI/ML Developer** at **Kyndryl** and a **Computer Science student** at 
 
 ![Top Languages](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=djleamen&theme=transparent&show_icons=true&hide_border=true&langs_count=18&layout=compact)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=djleamen&theme=radical&title=-Reviews,-Experience,-Followers)
+![Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=djleamen&theme=radical&title=-Reviews,-Experience,-Followers)
 
 
 ## Research & Recent Talks
@@ -99,5 +99,7 @@ Leamen, D. J., Hsu, C., Madisha, K., Patel, H., Powell, N., & Ruttenberg-Rozen, 
 - **Building Your Brand from the Inside Out: Making Your Strengths Visible** · CAN-CWiC 2026, University of Waterloo
 
  <img src="koi/koi.gif" width="256" alt="My koi" />
+
+ [Koi by yalongwastaken](https://github.com/yalongwastaken/git-koi)
 
 </details>
