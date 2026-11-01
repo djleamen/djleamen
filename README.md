@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm an **AI/ML Developer** at **Kyndryl** and a **Computer Science student** at **Ontario Tech University** building enterprise agentic AI.
+I'm an **AI/ML Developer** at **Kyndryl** and a **Computer Science - Artificial Intelligence student** at **Ontario Tech University** building enterprise agentic AI.
 
 - 🤖 Lead developer of a multi-agent modernization & opportunity-discovery platform at Kyndryl
 - 🛠️ Forward-deployed engineer: solution architecture, TCO modelling, technical discovery, live demos
