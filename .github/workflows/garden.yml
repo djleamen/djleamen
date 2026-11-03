@@ -16,3 +16,4 @@ jobs:
       - uses: NightingaleX03/github-contribution@v1
         with:
           github-token: ${{ secrets.GARDEN_TOKEN }}
+          look: dark
