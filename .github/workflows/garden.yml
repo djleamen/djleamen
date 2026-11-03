@@ -14,3 +14,5 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - uses: NightingaleX03/github-contribution@v1
+        with:
+          github-token: ${{ secrets.GARDEN_TOKEN }}
