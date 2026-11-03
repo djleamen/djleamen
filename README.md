@@ -99,10 +99,6 @@ Leamen, D. J., Hsu, C., Madisha, K., Patel, H., Powell, N., & Ruttenberg-Rozen, 
 - **Kyndryl Agentic Framework: Accelerating Data Estate Modernization** · Day of Data / SQL Saturday Toronto 2026
 - **Building Your Brand from the Inside Out: Making Your Strengths Visible** · CAN-CWiC 2026, University of Waterloo
 
- <img alt="My contribution garden" src="garden/garden.svg" width="100%">
-
- [Contribution Garden by NightingaleX03](https://github.com/NightingaleX03/Gardening-Commits)
-
 <img src="koi/koi.gif" width="256" alt="My koi" />
 
  [Koi by yalongwastaken](https://github.com/yalongwastaken/git-koi)
