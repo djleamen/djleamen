@@ -103,4 +103,8 @@ Leamen, D. J., Hsu, C., Madisha, K., Patel, H., Powell, N., & Ruttenberg-Rozen, 
 
  [Contribution Garden by NightingaleX03](https://github.com/NightingaleX03/Gardening-Commits)
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
+ [Koi by yalongwastaken](https://github.com/yalongwastaken/git-koi)
+
 </details>
