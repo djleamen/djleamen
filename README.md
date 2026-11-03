@@ -101,6 +101,6 @@ Leamen, D. J., Hsu, C., Madisha, K., Patel, H., Powell, N., & Ruttenberg-Rozen, 
 
 <img src="koi/koi.gif" width="256" alt="My koi" />
 
- [Koi by yalongwastaken](https://github.com/yalongwastaken/git-koi)
+[Koi by yalongwastaken](https://github.com/yalongwastaken/git-koi)
 
 </details>
