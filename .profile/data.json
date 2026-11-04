@@ -1,0 +1,1212 @@
+{
+ "key": "c3a685f6",
+ "stars": 69,
+ "contributions": 2383,
+ "repos": 64,
+ "followers": 34,
+ "languages": [
+  [
+   "Python",
+   1519740
+  ],
+  [
+   "Java",
+   830998
+  ],
+  [
+   "JavaScript",
+   694437
+  ],
+  [
+   "Jupyter Notebook",
+   459056
+  ],
+  [
+   "TypeScript",
+   312208
+  ],
+  [
+   "Vue",
+   289987
+  ],
+  [
+   "C#",
+   241356
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 17,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 15,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 18,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 15,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 29,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 13,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": true
+   },
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 9,
+  "longest": 17
+ },
+ "pins": [
+  {
+   "name": "SUSTAIN",
+   "url": "https://github.com/djleamen/SUSTAIN",
+   "text": "SUSTAIN is an environmentally-friendly, token-optimized AI wrapper designed to reduce compute costs and increase productivity.",
+   "fork": false,
+   "stars": 4,
+   "language": "Python",
+   "topics": [
+    "ai",
+    "sustainability",
+    "gpt",
+    "gpt-3",
+    "gpt-35-turbo",
+    "gpt-4",
+    "openai",
+    "sustainable-software"
+   ]
+  },
+  {
+   "name": "MapleClear",
+   "url": "https://github.com/djleamen/MapleClear",
+   "text": "A privacy-first browser extension that rewrites Canadian government webpages into plain language, expands acronyms, and provides one-click translation",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "accessibility",
+    "api",
+    "chrome-extension",
+    "extension",
+    "fastapi",
+    "gpt",
+    "gpt-oss",
+    "gpt-oss-20b",
+    "groq",
+    "huggingface"
+   ]
+  },
+  {
+   "name": "search-ad-learning",
+   "url": "https://github.com/djleamen/search-ad-learning",
+   "text": "Visualization demo of how search engines determine ad topics",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "doc-reader",
+   "url": "https://github.com/djleamen/doc-reader",
+   "text": "Large document Q&A agent using RAG",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": [
+    "ai",
+    "ml",
+    "openai",
+    "python",
+    "rag",
+    "rag-chatbot",
+    "vector-database",
+    "langchain",
+    "nlp",
+    "nltk"
+   ]
+  },
+  {
+   "name": "Scrozam",
+   "url": "https://github.com/djleamen/Scrozam",
+   "text": "Scrozam! is a web application that detects songs using the ACRCloud API and scrobbles the identified tracks to a user's Last.fm account.",
+   "fork": false,
+   "stars": 3,
+   "language": "JavaScript",
+   "topics": [
+    "api",
+    "lastfm",
+    "lastfm-api",
+    "music",
+    "scrobble",
+    "scrobbler"
+   ]
+  },
+  {
+   "name": "modelcules",
+   "url": "https://github.com/djleamen/modelcules",
+   "text": "Render 3D models of molecules by entering their chemical formulae",
+   "fork": false,
+   "stars": 4,
+   "language": "TypeScript",
+   "topics": [
+    "3d",
+    "api",
+    "chemical",
+    "chemistry",
+    "chemspider",
+    "iupac",
+    "molecular-modeling",
+    "molecule",
+    "physics",
+    "pubchem"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "DevDuck",
+   "url": "https://github.com/djleamen/DevDuck",
+   "text": "DevDuck is a sentiment-aware rubber duck agent.",
+   "fork": false,
+   "stars": 4,
+   "language": "Python",
+   "topics": [
+    "ai",
+    "api",
+    "hackathon",
+    "hackthenorth",
+    "ml",
+    "ngrok",
+    "open-source",
+    "openai",
+    "python",
+    "vapi"
+   ]
+  },
+  {
+   "name": "modelcules",
+   "url": "https://github.com/djleamen/modelcules",
+   "text": "Render 3D models of molecules by entering their chemical formulae",
+   "fork": false,
+   "stars": 4,
+   "language": "TypeScript",
+   "topics": [
+    "3d",
+    "api",
+    "chemical",
+    "chemistry",
+    "chemspider",
+    "iupac",
+    "molecular-modeling",
+    "molecule",
+    "physics",
+    "pubchem"
+   ]
+  },
+  {
+   "name": "renamer",
+   "url": "https://github.com/djleamen/renamer",
+   "text": "Utility to rename mp3 files based on speech content",
+   "fork": false,
+   "stars": 4,
+   "language": "Python",
+   "topics": [
+    "ffmpeg",
+    "google-speech-recognition",
+    "googlespeechapi",
+    "mp3",
+    "openai",
+    "pyaudio",
+    "pydub",
+    "python",
+    "speech-recognition",
+    "speech-to-text"
+   ]
+  },
+  {
+   "name": "SUSTAIN",
+   "url": "https://github.com/djleamen/SUSTAIN",
+   "text": "SUSTAIN is an environmentally-friendly, token-optimized AI wrapper designed to reduce compute costs and increase productivity.",
+   "fork": false,
+   "stars": 4,
+   "language": "Python",
+   "topics": [
+    "ai",
+    "sustainability",
+    "gpt",
+    "gpt-3",
+    "gpt-35-turbo",
+    "gpt-4",
+    "openai",
+    "sustainable-software"
+   ]
+  },
+  {
+   "name": "doc-reader",
+   "url": "https://github.com/djleamen/doc-reader",
+   "text": "Large document Q&A agent using RAG",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": [
+    "ai",
+    "ml",
+    "openai",
+    "python",
+    "rag",
+    "rag-chatbot",
+    "vector-database",
+    "langchain",
+    "nlp",
+    "nltk"
+   ]
+  },
+  {
+   "name": "resource-masterlist",
+   "url": "https://github.com/djleamen/resource-masterlist",
+   "text": "A curated list of resources and websites to help developers expand their brand, enhance their skills, and connect with the tech community.",
+   "fork": false,
+   "stars": 3,
+   "language": null,
+   "topics": [
+    "developer",
+    "developer-tools",
+    "development",
+    "links",
+    "resources"
+   ]
+  },
+  {
+   "name": "Scrozam",
+   "url": "https://github.com/djleamen/Scrozam",
+   "text": "Scrozam! is a web application that detects songs using the ACRCloud API and scrobbles the identified tracks to a user's Last.fm account.",
+   "fork": false,
+   "stars": 3,
+   "language": "JavaScript",
+   "topics": [
+    "api",
+    "lastfm",
+    "lastfm-api",
+    "music",
+    "scrobble",
+    "scrobbler"
+   ]
+  },
+  {
+   "name": "mai-buddy",
+   "url": "https://github.com/djleamen/mai-buddy",
+   "text": "Mai Buddy is a highly customizable, personal AI agent",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "electron",
+    "elevenlabs",
+    "gpt",
+    "integration",
+    "mcp"
+   ]
+  },
+  {
+   "name": "statsjam",
+   "url": "https://github.com/djleamen/statsjam",
+   "text": "Stats app created for NHL fans who love statistics and clean design",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": [
+    "api",
+    "javascript",
+    "material-ui",
+    "nhl",
+    "react",
+    "sportradar",
+    "statistics",
+    "vite",
+    "webapp"
+   ]
+  },
+  {
+   "name": "blockgame",
+   "url": "https://github.com/djleamen/blockgame",
+   "text": "3D block game with heavy inspiration taken from early alpha versions of Minecraft, implemented in Java.",
+   "fork": false,
+   "stars": 2,
+   "language": "Java",
+   "topics": [
+    "game",
+    "game-development",
+    "java",
+    "maven",
+    "opengl"
+   ]
+  },
+  {
+   "name": "Gardening-Commits",
+   "url": "https://github.com/djleamen/Gardening-Commits",
+   "text": "A cozy isometric garden that grows from your GitHub contributions. Every day is a tile, and the more you code, the more it blooms.",
+   "fork": true,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "github-universe-2026",
+   "url": "https://github.com/djleamen/github-universe-2026",
+   "text": "Mega directory of my Universe activities Oct 27-29 in SF!",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "github-universe",
+    "github-universe-2026"
+   ]
+  },
+  {
+   "name": "twinventory",
+   "url": "https://github.com/djleamen/twinventory",
+   "text": "Twinventory is an AI-powered virtual closet and shopping experience.",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "3d",
+    "3d-modeling",
+    "fastapi",
+    "meshy",
+    "nextjs",
+    "openai",
+    "elasticsearch",
+    "mongodb",
+    "mongodb-atlas",
+    "shopify"
+   ]
+  },
+  {
+   "name": "ascii-video",
+   "url": "https://github.com/djleamen/ascii-video",
+   "text": "Web app that turns any video file into live, frame-by-frame ASCII art right in your browser.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "ascii",
+    "ascii-art",
+    "website"
+   ]
+  },
+  {
+   "name": "neural-network-example",
+   "url": "https://github.com/djleamen/neural-network-example",
+   "text": "An interactive web app for teaching how neural networks work.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "deep-learning",
+    "deep-neural-networks",
+    "education",
+    "neural-network",
+    "neural-networks",
+    "teaching",
+    "visualization"
+   ]
+  },
+  {
+   "name": "cluster-unstructured-text-data",
+   "url": "https://github.com/djleamen/cluster-unstructured-text-data",
+   "text": "Groups patterns in unstructured .txt data using classic clustering (K-Means or DBSCAN) and surfaces each cluster's top keywords and representative example documents.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "clustering",
+    "dbscan",
+    "kmeans-clustering",
+    "unstructured-data"
+   ]
+  },
+  {
+   "name": "bittorrent-java",
+   "url": "https://github.com/djleamen/bittorrent-java",
+   "text": "Build your own Shell challenge - CodeCrafters.io",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": [
+    "bittorent",
+    "java"
+   ]
+  },
+  {
+   "name": "stroke-prediction",
+   "url": "https://github.com/djleamen/stroke-prediction",
+   "text": "From \"Build and deploy a stroke prediction model using R\" on Coursera",
+   "fork": false,
+   "stars": 1,
+   "language": "RMarkdown",
+   "topics": [
+    "logistic-regression",
+    "r",
+    "random-forest",
+    "statistics",
+    "stroke-prediction",
+    "xgboost"
+   ]
+  },
+  {
+   "name": "better-visualizer",
+   "url": "https://github.com/djleamen/better-visualizer",
+   "text": "ML-powered music visualizer with real-time mood detection and physics-based fluid visuals. Inspired by the Apple Music/iTunes visualizer.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "search-ad-learning",
+   "url": "https://github.com/djleamen/search-ad-learning",
+   "text": "Visualization demo of how search engines determine ad topics",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "redis-python",
+   "url": "https://github.com/djleamen/redis-python",
+   "text": "Build your own Redis challenge - CodeCrafters.io",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "user-management-service",
+   "url": "https://github.com/djleamen/user-management-service",
+   "text": "Capstone project for IBM's course  Generative AI: Elevate your Software Development Career on Coursera",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "devops",
+    "generative-ai",
+    "ibm",
+    "large-language-models",
+    "natural-language-processing",
+    "nlp",
+    "rag",
+    "retrieval-augmented-generation",
+    "software-engineering",
+    "vibe-coding"
+   ]
+  },
+  {
+   "name": "final-cloud-app-with-database",
+   "url": "https://github.com/djleamen/final-cloud-app-with-database",
+   "text": "From IBM's Django Application Development with SQL and Databases on Coursera",
+   "fork": true,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "authentication",
+    "bootstrap",
+    "cloud",
+    "database",
+    "django",
+    "full-stack",
+    "ibm",
+    "rdbms",
+    "sql",
+    "web-development"
+   ]
+  },
+  {
+   "name": "final-project-emb-ai",
+   "url": "https://github.com/djleamen/final-project-emb-ai",
+   "text": "From IBM's Developing AI Applications with Python and Flask on Coursera",
+   "fork": true,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "emotion-detection",
+    "flask",
+    "ibm",
+    "ibm-cloud",
+    "nlp",
+    "python",
+    "rest-api",
+    "unit-testing",
+    "watson",
+    "web-development"
+   ]
+  },
+  {
+   "name": "expressBookReviews",
+   "url": "https://github.com/djleamen/expressBookReviews",
+   "text": "From IBM's Developing Back-End Apps with Node.js and Express on Coursera",
+   "fork": true,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "authentication",
+    "backend",
+    "cloud",
+    "ibm",
+    "javascript",
+    "json",
+    "nodejs",
+    "rest-api",
+    "web-development"
+   ]
+  },
+  {
+   "name": "e-plantShopping",
+   "url": "https://github.com/djleamen/e-plantShopping",
+   "text": "e-plantShopping: from IBM's Developing Front-End Apps with React on Coursera",
+   "fork": true,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "api",
+    "frontend",
+    "ibm",
+    "javascript",
+    "react",
+    "redux",
+    "responsive-design",
+    "rest-api",
+    "ui"
+   ]
+  },
+  {
+   "name": "social-media-performance-analysis",
+   "url": "https://github.com/djleamen/social-media-performance-analysis",
+   "text": "From Clean and analyze social media usage data with Python on Coursera",
+   "fork": false,
+   "stars": 1,
+   "language": "Jupyter Notebook",
+   "topics": []
+  },
+  {
+   "name": "fullstack_developer_capstone",
+   "url": "https://github.com/djleamen/fullstack_developer_capstone",
+   "text": "From IBM's Full Stack Application Development Capstone Project on Coursera",
+   "fork": true,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "authentication",
+    "backend",
+    "capstone-project",
+    "cicd",
+    "code-engine",
+    "database",
+    "django",
+    "frontend",
+    "ibm",
+    "ibm-cloud"
+   ]
+  },
+  {
+   "name": "grep-typescript",
+   "url": "https://github.com/djleamen/grep-typescript",
+   "text": "Build your own Grep challenge - CodeCrafters.io",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "grep",
+    "regex",
+    "typescript"
+   ]
+  },
+  {
+   "name": "claude-code-python",
+   "url": "https://github.com/djleamen/claude-code-python",
+   "text": "Build your own Claude Code challenge - CodeCrafters.io",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "agent",
+    "ai",
+    "claude",
+    "claude-code",
+    "llm",
+    "openai",
+    "python",
+    "rest-api"
+   ]
+  },
+  {
+   "name": "markov-chain",
+   "url": "https://github.com/djleamen/markov-chain",
+   "text": "Python implementation of character- and word-level Markov chain text generator",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "markov-chain",
+    "markov-decision-processes",
+    "python"
+   ]
+  },
+  {
+   "name": "redis-csharp",
+   "url": "https://github.com/djleamen/redis-csharp",
+   "text": "Build your own Redis challenge - CodeCrafters.io",
+   "fork": false,
+   "stars": 1,
+   "language": "C#",
+   "topics": [
+    "csharp",
+    "redis"
+   ]
+  },
+  {
+   "name": "sqlite-typescript",
+   "url": "https://github.com/djleamen/sqlite-typescript",
+   "text": "Build your own SQLite challenge - CodeCrafters.io",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "sqlite",
+    "typescript"
+   ]
+  },
+  {
+   "name": "shell-cpp",
+   "url": "https://github.com/djleamen/shell-cpp",
+   "text": "Build your own Shell challenge - CodeCrafters.io",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": [
+    "cpp",
+    "posix",
+    "shell"
+   ]
+  },
+  {
+   "name": "interpreter-python",
+   "url": "https://github.com/djleamen/interpreter-python",
+   "text": "Build your own Interpreter challenge - CodeCrafters.io",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "interpreter",
+    "lox",
+    "lox-interpreter",
+    "python"
+   ]
+  },
+  {
+   "name": "git-java",
+   "url": "https://github.com/djleamen/git-java",
+   "text": "Build your own Git challenge - CodeCrafters.io",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": [
+    "git",
+    "java",
+    "tree"
+   ]
+  },
+  {
+   "name": "http-server-csharp",
+   "url": "https://github.com/djleamen/http-server-csharp",
+   "text": "Build your own HTTP server challenge - CodeCrafters.io",
+   "fork": false,
+   "stars": 1,
+   "language": "C#",
+   "topics": [
+    "csharp",
+    "http",
+    "http-server",
+    "tcp",
+    "tcp-server"
+   ]
+  },
+  {
+   "name": "github-profile-trophy",
+   "url": "https://github.com/djleamen/github-profile-trophy",
+   "text": "🏆 Add dynamically generated GitHub Stat Trophies  on your readme",
+   "fork": true,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "github-readme-stats",
+   "url": "https://github.com/djleamen/github-readme-stats",
+   "text": ":zap: Dynamically generated stats for your github readmes",
+   "fork": true,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "snow-visualizer",
+   "url": "https://github.com/djleamen/snow-visualizer",
+   "text": "Visualize snowfall with helpful reference objects!",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "3d",
+    "css",
+    "html5",
+    "javascript",
+    "snow-depth",
+    "threejs",
+    "visualization",
+    "web"
+   ]
+  },
+  {
+   "name": "azure-for-ai-ml",
+   "url": "https://github.com/djleamen/azure-for-ai-ml",
+   "text": "Microsoft Azure for AI and Machine Learning by Microsoft on Coursera",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "ai",
+    "coursera",
+    "coursework",
+    "data-cleaning",
+    "data-preprocessing",
+    "deployment",
+    "evaluation",
+    "evaluation-metrics",
+    "ml",
+    "study"
+   ]
+  },
+  {
+   "name": "troubleshoot-agent",
+   "url": "https://github.com/djleamen/troubleshoot-agent",
+   "text": "Building Intelligent Troubleshooting Agents by Microsoft on Coursera",
+   "fork": false,
+   "stars": 1,
+   "language": "Jupyter Notebook",
+   "topics": [
+    "ai",
+    "bert",
+    "classification",
+    "coursera",
+    "coursework",
+    "decision-trees",
+    "feature-selection",
+    "fine-tuning",
+    "lora",
+    "ml"
+   ]
+  },
+  {
+   "name": "ml_project",
+   "url": "https://github.com/djleamen/ml_project",
+   "text": "AI and Machine Learning Algorithms and Techniques by Microsoft on Coursera",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "ai",
+    "algorithms",
+    "clustering",
+    "coursera",
+    "coursework",
+    "dbscan",
+    "decision-trees",
+    "deep-learning",
+    "dimensionality-reduction",
+    "feature-selection"
+   ]
+  },
+  {
+   "name": "q-sharp-practice",
+   "url": "https://github.com/djleamen/q-sharp-practice",
+   "text": "Q# practice - self teaching pathway",
+   "fork": false,
+   "stars": 1,
+   "language": "Q#",
+   "topics": [
+    "qsharp",
+    "quantum",
+    "quantum-computing"
+   ]
+  },
+  {
+   "name": "work-with-me",
+   "url": "https://github.com/djleamen/work-with-me",
+   "text": "An intelligent, interactive drawing web application that combines creative freedom with AI assistance.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "aitour26-WRK541-real-world-code-migration-with-github-copilot-agent-mode",
+   "url": "https://github.com/djleamen/aitour26-WRK541-real-world-code-migration-with-github-copilot-agent-mode",
+   "text": "",
+   "fork": true,
+   "stars": 1,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "MapleClear",
+   "url": "https://github.com/djleamen/MapleClear",
+   "text": "A privacy-first browser extension that rewrites Canadian government webpages into plain language, expands acronyms, and provides one-click translation",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "accessibility",
+    "api",
+    "chrome-extension",
+    "extension",
+    "fastapi",
+    "gpt",
+    "gpt-oss",
+    "gpt-oss-20b",
+    "groq",
+    "huggingface"
+   ]
+  },
+  {
+   "name": "SUSTAINForiOS",
+   "url": "https://github.com/djleamen/SUSTAINForiOS",
+   "text": "SUSTAIN app for iOS, built using SwiftUI & TypeScript",
+   "fork": true,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "ai",
+    "gpt",
+    "ios",
+    "large-language-models",
+    "llm",
+    "optimization",
+    "sustainability",
+    "swift",
+    "token"
+   ]
+  },
+  {
+   "name": "music-mood-matcher-demo",
+   "url": "https://github.com/djleamen/music-mood-matcher-demo",
+   "text": "An intelligent music recommendation system that analyzes your mood through natural language and suggests personalized playlists using advanced AI and machine learning techniques.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "machine-learning",
+    "ml",
+    "natural-language-processing",
+    "nltk",
+    "openai",
+    "scikit-learn",
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "nlp"
+   ]
+  },
+  {
+   "name": "june-celebrations",
+   "url": "https://github.com/djleamen/june-celebrations",
+   "text": "Submission for DEV frontend challenge",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "dev",
+    "devto",
+    "frontend",
+    "frontend-challenge",
+    "june-celebration-challenge",
+    "lgbt",
+    "lgbtq",
+    "pride",
+    "pride-month"
+   ]
+  },
+  {
+   "name": "skills-build-applications-w-copilot-agent-mode",
+   "url": "https://github.com/djleamen/skills-build-applications-w-copilot-agent-mode",
+   "text": "Exercise: Build my application with Copilot agent mode",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "daily-journal",
+   "url": "https://github.com/djleamen/daily-journal",
+   "text": "For daily journalling.",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": [
+    "java",
+    "journal",
+    "swing",
+    "swing-gui"
+   ]
+  },
+  {
+   "name": "ai-quality-safety-demos",
+   "url": "https://github.com/djleamen/ai-quality-safety-demos",
+   "text": "AI Safety and Quality demos (using Azure AI, GitHub Models)",
+   "fork": true,
+   "stars": 1,
+   "language": "Bicep",
+   "topics": [
+    "ai",
+    "azure",
+    "azure-ai",
+    "openai",
+    "safety",
+    "bicep",
+    "python"
+   ]
+  },
+  {
+   "name": "djleamen-hashnode",
+   "url": "https://github.com/djleamen/djleamen-hashnode",
+   "text": "The backup files for my Hashnode blog",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": [
+    "blog",
+    "hashnode",
+    "hashnode-blog",
+    "website"
+   ]
+  },
+  {
+   "name": "PurplWav-Website",
+   "url": "https://github.com/djleamen/PurplWav-Website",
+   "text": "Webpage for epilepsy awareness, outreach, and research campaigning.",
+   "fork": false,
+   "stars": 1,
+   "language": "Vue",
+   "topics": [
+    "educational",
+    "epilepsy",
+    "information",
+    "web-development",
+    "website"
+   ]
+  },
+  {
+   "name": "DJ-Portfolio",
+   "url": "https://github.com/djleamen/DJ-Portfolio",
+   "text": "The source code for my personal portfolio, built using Vue.js and AWS Amplify. The portfolio showcases my projects, experience, links to my social media, information about the classes I've taken, what I'm currently learning, and more.",
+   "fork": false,
+   "stars": 1,
+   "language": "Vue",
+   "topics": [
+    "about-me",
+    "portfolio",
+    "portfolio-website",
+    "projects",
+    "skills",
+    "website"
+   ]
+  },
+  {
+   "name": "nanonest",
+   "url": "https://github.com/djleamen/nanonest",
+   "text": "Project",
+   "fork": true,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "SUSTAINForAndroid",
+   "url": "https://github.com/djleamen/SUSTAINForAndroid",
+   "text": "SUSTAIN app for Android, built using Kotlin",
+   "fork": true,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": [
+    "ai",
+    "android",
+    "kotlin",
+    "kotlin-android",
+    "large-language-models",
+    "llm",
+    "optimization",
+    "sustainability",
+    "token"
+   ]
+  },
+  {
+   "name": "SUSTAINWebApp",
+   "url": "https://github.com/djleamen/SUSTAINWebApp",
+   "text": "SUSTAIN is an environmentally-friendly, token-optimized AI wrapper designed to reduce compute costs and increase productivity. By filtering out irrelevant words and phrases from prompts, SUSTAIN minimizes the number of tokens sent to and received from the AI, saving energy and boosting performance.",
+   "fork": true,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "ai",
+    "api",
+    "artificial-intelligence",
+    "gpt",
+    "llm",
+    "openai",
+    "sustainability"
+   ]
+  },
+  {
+   "name": "w25-LectureExamples",
+   "url": "https://github.com/djleamen/w25-LectureExamples",
+   "text": "Code from demos and examples from modules and in-class.",
+   "fork": true,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "old-snippets",
+   "url": "https://github.com/djleamen/old-snippets",
+   "text": "This repository showcases various old code snippets from past projects, highlighting my knowledge and skills in Java, C++, and Python.",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "codes-it-simple",
+   "url": "https://github.com/djleamen/codes-it-simple",
+   "text": "🌟 DJ Codes it Simple: Your beginner-friendly guide to mastering Shell Scripting, SQL, and more! Explore essential concepts, hands-on examples, and best practices to kickstart your coding journey.",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": [
+    "learn-to-code",
+    "learning",
+    "learning-by-doing",
+    "learning-exercise",
+    "python",
+    "shell-script",
+    "sql",
+    "teaching",
+    "teaching-materials"
+   ]
+  },
+  {
+   "name": "djleamen",
+   "url": "https://github.com/djleamen/djleamen",
+   "text": "Config files for my GitHub profile.",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": [
+    "config",
+    "github-config"
+   ]
+  },
+  {
+   "name": "MS-DOS",
+   "url": "https://github.com/djleamen/MS-DOS",
+   "text": "The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes",
+   "fork": true,
+   "stars": 0,
+   "language": "Assembly",
+   "topics": []
+  }
+ ]
+}
