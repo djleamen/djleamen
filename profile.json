@@ -17,7 +17,11 @@
     "wave",
     "buttons"
   ],
-  "hidden": [],
+  "hidden": [
+    "streak",
+    "stats",
+    "projects"
+  ],
   "hero": {
     "greeting": "Hi there, I'm",
     "name": "DJ!",

@@ -8,16 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/djleamen/SUSTAIN"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sustain-dark.svg"><img src="assets/project-sustain-light.svg" width="49%" alt="SUSTAIN"></picture></a>&nbsp;<a href="https://github.com/djleamen/MapleClear"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mapleclear-dark.svg"><img src="assets/project-mapleclear-light.svg" width="49%" alt="MapleClear"></picture></a>
-
-<a href="https://github.com/djleamen/mai-buddy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mai-buddy-dark.svg"><img src="assets/project-mai-buddy-light.svg" width="49%" alt="mai-buddy"></picture></a>&nbsp;<a href="https://github.com/djleamen/search-ad-learning"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-search-ad-learning-dark.svg"><img src="assets/project-search-ad-learning-light.svg" width="49%" alt="search-ad-learning"></picture></a>
-
-<a href="https://github.com/djleamen/Scrozam"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-scrozam-dark.svg"><img src="assets/project-scrozam-light.svg" width="49%" alt="Scrozam"></picture></a>&nbsp;<a href="https://github.com/djleamen/modelcules"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-modelcules-dark.svg"><img src="assets/project-modelcules-light.svg" width="49%" alt="modelcules"></picture></a>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 <a href="https://djleamen.ca"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/djleamen?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
