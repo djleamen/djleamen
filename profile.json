@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "login": "djleamen",
+  "seed": "#333248",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi there, I'm",
+    "name": "DJ!",
+    "subtitle": "I build systems and their glue.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Toronto, Canada"
+      },
+      {
+        "icon": "today",
+        "label": "October 22"
+      },
+      {
+        "icon": "language",
+        "label": "English"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Agentic Forward Deployed Engineering"
+      },
+      {
+        "icon": "code",
+        "label": "AI/ML, Systems Programming, Backend and Middleware"
+      },
+      {
+        "icon": "heart_smile",
+        "label": "Accessibility, Ethical & Sustainable AI, Women in Tech"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:openjdk",
+            "label": "Java"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:pytorch",
+            "label": "PyTorch"
+          },
+          {
+            "icon": "brand:scikitlearn",
+            "label": "scikit-learn"
+          },
+          {
+            "icon": "brand:redis",
+            "label": "Redis"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "SUSTAIN",
+      "MapleClear",
+      "mai-buddy",
+      "search-ad-learning",
+      "Scrozam",
+      "modelcules"
+    ],
+    "overrides": {
+      "SUSTAIN": {
+        "icon": "nest_eco_leaf",
+        "shape": "pill"
+      },
+      "MapleClear": {
+        "icon": "document_scanner",
+        "shape": "cookie12"
+      },
+      "mai-buddy": {
+        "icon": "robot_2"
+      },
+      "search-ad-learning": {
+        "icon": "ads_click"
+      },
+      "modelcules": {
+        "icon": "science",
+        "shape": "soft"
+      },
+      "Scrozam": {
+        "shape": "clover"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": false
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:linktree",
+        "url": "https://linktr.ee/djleamen"
+      },
+      {
+        "icon": "work",
+        "url": "https://www.linkedin.com/in/djleamen/"
+      },
+      {
+        "icon": "brand:instagram",
+        "url": "https://www.instagram.com/dejjos"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://www.youtube.com/@DJLeamen"
+      },
+      {
+        "icon": "brand:facebook",
+        "url": "https://www.facebook.com/dee.leamen/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://djleamen.ca",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
