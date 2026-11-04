@@ -1,7 +1,7 @@
 {
- "key": "e6fe3be9",
+ "key": "d1b3f205",
  "stars": 69,
- "contributions": 2385,
+ "contributions": 2386,
  "repos": 65,
  "followers": 34,
  "languages": [
@@ -10,12 +10,12 @@
    1519740
   ],
   [
-   "Java",
-   830998
+   "JavaScript",
+   1192465
   ],
   [
-   "JavaScript",
-   694437
+   "Java",
+   830998
   ],
   [
    "Jupyter Notebook",
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 4,
     "today": true
    },
@@ -1193,7 +1193,7 @@
    "text": "Config files for my GitHub profile.",
    "fork": false,
    "stars": 1,
-   "language": null,
+   "language": "JavaScript",
    "topics": [
     "config",
     "github-config"
