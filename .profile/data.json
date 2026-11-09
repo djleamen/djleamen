@@ -1,7 +1,7 @@
 {
- "key": "f4662efe",
- "stars": 70,
- "contributions": 2417,
+ "key": "93ee9507",
+ "stars": 71,
+ "contributions": 2421,
  "repos": 66,
  "followers": 34,
  "languages": [
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 6,
+    "c": 10,
     "day": 9,
     "today": true
    },
@@ -374,6 +374,26 @@
    ]
   },
   {
+   "name": "twinventory",
+   "url": "https://github.com/djleamen/twinventory",
+   "text": "Twinventory is an AI-powered virtual closet and shopping experience.",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": [
+    "3d",
+    "3d-modeling",
+    "fastapi",
+    "meshy",
+    "nextjs",
+    "openai",
+    "elasticsearch",
+    "mongodb",
+    "mongodb-atlas",
+    "shopify"
+   ]
+  },
+  {
    "name": "mai-buddy",
    "url": "https://github.com/djleamen/mai-buddy",
    "text": "Mai Buddy is a highly customizable, personal AI agent",
@@ -472,26 +492,6 @@
    "topics": [
     "github-universe",
     "github-universe-2026"
-   ]
-  },
-  {
-   "name": "twinventory",
-   "url": "https://github.com/djleamen/twinventory",
-   "text": "Twinventory is an AI-powered virtual closet and shopping experience.",
-   "fork": false,
-   "stars": 1,
-   "language": "TypeScript",
-   "topics": [
-    "3d",
-    "3d-modeling",
-    "fastapi",
-    "meshy",
-    "nextjs",
-    "openai",
-    "elasticsearch",
-    "mongodb",
-    "mongodb-atlas",
-    "shopify"
    ]
   },
   {
