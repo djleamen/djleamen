@@ -1,8 +1,8 @@
 {
- "key": "b4c4fa08",
- "stars": 69,
- "contributions": 2411,
- "repos": 65,
+ "key": "f4662efe",
+ "stars": 70,
+ "contributions": 2417,
+ "repos": 66,
  "followers": 34,
  "languages": [
   [
@@ -11,7 +11,7 @@
   ],
   [
    "JavaScript",
-   1192465
+   1213724
   ],
   [
    "Java",
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 6,
     "day": 9,
     "today": true
    },
@@ -128,7 +128,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 17
  },
  "pins": [
@@ -177,7 +177,14 @@
    "fork": false,
    "stars": 1,
    "language": "Python",
-   "topics": []
+   "topics": [
+    "ad-targeting",
+    "audience-segmentation",
+    "audience-targeting",
+    "fastapi",
+    "search-engine",
+    "machine-learning"
+   ]
   },
   {
    "name": "doc-reader",
@@ -418,13 +425,42 @@
    ]
   },
   {
+   "name": "expressive-profile",
+   "url": "https://github.com/djleamen/expressive-profile",
+   "text": "Material 3 Expressive profile README generator for GitHub with daily auto-updates",
+   "fork": true,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "profile",
+    "profile-readme"
+   ]
+  },
+  {
    "name": "Gardening-Commits",
    "url": "https://github.com/djleamen/Gardening-Commits",
    "text": "A cozy isometric garden that grows from your GitHub contributions. Every day is a tile, and the more you code, the more it blooms.",
    "fork": true,
    "stars": 1,
    "language": "TypeScript",
-   "topics": []
+   "topics": [
+    "contribution-graph",
+    "readme",
+    "readme-profile"
+   ]
+  },
+  {
+   "name": "globe-trotter",
+   "url": "https://github.com/djleamen/globe-trotter",
+   "text": "Track the places you've been around the world",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "map",
+    "world-map",
+    "web"
+   ]
   },
   {
    "name": "github-universe-2026",
@@ -469,6 +505,20 @@
     "ascii",
     "ascii-art",
     "website"
+   ]
+  },
+  {
+   "name": "MS-DOS",
+   "url": "https://github.com/djleamen/MS-DOS",
+   "text": "The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes",
+   "fork": true,
+   "stars": 1,
+   "language": "Assembly",
+   "topics": [
+    "ibm",
+    "microsoft",
+    "ms-dos",
+    "operating-system"
    ]
   },
   {
@@ -533,11 +583,20 @@
   {
    "name": "better-visualizer",
    "url": "https://github.com/djleamen/better-visualizer",
-   "text": "ML-powered music visualizer with real-time mood detection and physics-based fluid visuals. Inspired by the Apple Music/iTunes visualizer.",
+   "text": "Music visualizer with real-time mood detection and physics-based fluid visuals. Inspired by the Apple Music/iTunes visualizer.",
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
-   "topics": []
+   "topics": [
+    "mood-detection",
+    "music",
+    "music-visualization",
+    "music-visualizer",
+    "physics",
+    "visual",
+    "visualization",
+    "threejs"
+   ]
   },
   {
    "name": "search-ad-learning",
@@ -546,7 +605,14 @@
    "fork": false,
    "stars": 1,
    "language": "Python",
-   "topics": []
+   "topics": [
+    "ad-targeting",
+    "audience-segmentation",
+    "audience-targeting",
+    "fastapi",
+    "search-engine",
+    "machine-learning"
+   ]
   },
   {
    "name": "redis-python",
@@ -555,7 +621,12 @@
    "fork": false,
    "stars": 1,
    "language": "Python",
-   "topics": []
+   "topics": [
+    "codecrafters",
+    "codecrafters-redis",
+    "python",
+    "redis"
+   ]
   },
   {
    "name": "user-management-service",
@@ -814,7 +885,12 @@
    "fork": true,
    "stars": 1,
    "language": "TypeScript",
-   "topics": []
+   "topics": [
+    "profile",
+    "readme",
+    "readme-profile",
+    "trophies"
+   ]
   },
   {
    "name": "github-readme-stats",
@@ -823,7 +899,12 @@
    "fork": true,
    "stars": 1,
    "language": "JavaScript",
-   "topics": []
+   "topics": [
+    "profile",
+    "readme",
+    "readme-profile",
+    "stats"
+   ]
   },
   {
    "name": "snow-visualizer",
@@ -923,7 +1004,11 @@
    "fork": false,
    "stars": 1,
    "language": "JavaScript",
-   "topics": []
+   "topics": [
+    "ai-assisted",
+    "drawing",
+    "drawing-app"
+   ]
   },
   {
    "name": "aitour26-WRK541-real-world-code-migration-with-github-copilot-agent-mode",
@@ -932,7 +1017,11 @@
    "fork": true,
    "stars": 1,
    "language": "C#",
-   "topics": []
+   "topics": [
+    "ai-tour",
+    "copilot",
+    "migration"
+   ]
   },
   {
    "name": "MapleClear",
@@ -1190,24 +1279,6 @@
     "config",
     "github-config"
    ]
-  },
-  {
-   "name": "expressive-profile",
-   "url": "https://github.com/djleamen/expressive-profile",
-   "text": "Material 3 Expressive profile README generator for GitHub with daily auto-updates",
-   "fork": true,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "MS-DOS",
-   "url": "https://github.com/djleamen/MS-DOS",
-   "text": "The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes",
-   "fork": true,
-   "stars": 0,
-   "language": "Assembly",
-   "topics": []
   }
  ]
 }
