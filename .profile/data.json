@@ -1,7 +1,7 @@
 {
- "key": "ac99494c",
+ "key": "1b9cf226",
  "stars": 71,
- "contributions": 2484,
+ "contributions": 2447,
  "repos": 66,
  "followers": 34,
  "languages": [
@@ -113,9 +113,13 @@
    {
     "c": 29,
     "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
     "today": true
    },
-   null,
    null,
    null,
    null,
