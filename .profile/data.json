@@ -1,13 +1,13 @@
 {
- "key": "696dbd8b",
+ "key": "b55a26b2",
  "stars": 71,
- "contributions": 2469,
- "repos": 66,
+ "contributions": 2472,
+ "repos": 67,
  "followers": 34,
  "languages": [
   [
    "Python",
-   1526993
+   1564487
   ],
   [
    "JavaScript",
@@ -84,7 +84,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 3,
     "day": 10,
     "today": false
    },
@@ -121,7 +121,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 17,
     "today": true
    },
@@ -132,7 +132,7 @@
   ]
  ],
  "streak": {
-  "current": 3,
+  "current": 4,
   "longest": 17
  },
  "pins": [
@@ -1283,6 +1283,15 @@
     "config",
     "github-config"
    ]
+  },
+  {
+   "name": "create-your-first-agent",
+   "url": "https://github.com/djleamen/create-your-first-agent",
+   "text": "ACM-W hands-on workshop · Friday, November 20, 11 AM to 2 PM · SHA024",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
   }
  ]
 }
