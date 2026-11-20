@@ -1,6 +1,6 @@
 {
- "key": "e7dcf4ee",
- "stars": 71,
+ "key": "4668ca04",
+ "stars": 72,
  "contributions": 2488,
  "repos": 67,
  "followers": 34,
@@ -459,6 +459,15 @@
     "maven",
     "opengl"
    ]
+  },
+  {
+   "name": "create-your-first-agent",
+   "url": "https://github.com/djleamen/create-your-first-agent",
+   "text": "ACM-W hands-on workshop · Friday, November 20, 11 AM to 2 PM · SHA024",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
   },
   {
    "name": "expressive-profile",
@@ -1295,15 +1304,6 @@
     "config",
     "github-config"
    ]
-  },
-  {
-   "name": "create-your-first-agent",
-   "url": "https://github.com/djleamen/create-your-first-agent",
-   "text": "ACM-W hands-on workshop · Friday, November 20, 11 AM to 2 PM · SHA024",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
-   "topics": []
   }
  ]
 }
